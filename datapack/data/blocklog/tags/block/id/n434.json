@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:stripped_poplar_wood",
+    "minecraft:stripped_spruce_log",
+    "minecraft:stripped_spruce_wood",
+    "minecraft:stripped_warped_hyphae",
+    "minecraft:stripped_warped_stem",
+    "minecraft:structure_block",
+    "minecraft:structure_void",
+    "minecraft:sugar_cane",
+    "minecraft:sulfur",
+    "minecraft:sulfur_brick_slab",
+    "minecraft:sulfur_brick_stairs",
+    "minecraft:sulfur_brick_wall",
+    "minecraft:sulfur_bricks",
+    "minecraft:sulfur_slab",
+    "minecraft:sulfur_spike",
+    "minecraft:sulfur_stairs",
+    "minecraft:sulfur_wall",
+    "minecraft:sunflower",
+    "minecraft:suspicious_gravel",
+    "minecraft:suspicious_sand"
+  ]
+}

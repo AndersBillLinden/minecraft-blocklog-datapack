@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": {
+          "type": "minecraft:match_tool",
+          "predicate": {
+            "items": [
+              "minecraft:axolotl_bucket",
+              "minecraft:cod_bucket",
+              "minecraft:pufferfish_bucket",
+              "minecraft:salmon_bucket",
+              "minecraft:sulfur_cube_bucket",
+              "minecraft:tadpole_bucket",
+              "minecraft:tropical_fish_bucket",
+              "minecraft:water_bucket"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "blocklog:place/water"
+  }
+}

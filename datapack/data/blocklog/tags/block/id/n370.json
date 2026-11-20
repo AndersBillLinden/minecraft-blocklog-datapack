@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:purpur_stairs",
+    "minecraft:quartz_block",
+    "minecraft:quartz_bricks",
+    "minecraft:quartz_pillar",
+    "minecraft:quartz_slab",
+    "minecraft:quartz_stairs",
+    "minecraft:rail",
+    "minecraft:raw_copper_block",
+    "minecraft:raw_gold_block",
+    "minecraft:raw_iron_block",
+    "minecraft:red_banner",
+    "minecraft:red_bed",
+    "minecraft:red_candle",
+    "minecraft:red_candle_cake",
+    "minecraft:red_carpet",
+    "minecraft:red_concrete",
+    "minecraft:red_concrete_powder",
+    "minecraft:red_concrete_slab",
+    "minecraft:red_concrete_stairs",
+    "minecraft:red_glazed_terracotta"
+  ]
+}

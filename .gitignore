@@ -1,0 +1,16 @@
+# Zipped pack from generate.py (attach it to a GitHub Release instead of committing it).
+# The pack folder itself, datapack/, IS committed.
+dist/
+
+# Old output location
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

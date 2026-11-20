@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:dark_oak_planks",
+    "minecraft:dark_oak_pressure_plate",
+    "minecraft:dark_oak_sapling",
+    "minecraft:dark_oak_shelf",
+    "minecraft:dark_oak_sign",
+    "minecraft:dark_oak_slab",
+    "minecraft:dark_oak_stairs",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_wall_hanging_sign",
+    "minecraft:dark_oak_wall_sign",
+    "minecraft:dark_oak_wood",
+    "minecraft:dark_prismarine",
+    "minecraft:dark_prismarine_slab",
+    "minecraft:dark_prismarine_stairs",
+    "minecraft:daylight_detector",
+    "minecraft:dead_brain_coral",
+    "minecraft:dead_brain_coral_block",
+    "minecraft:dead_brain_coral_fan",
+    "minecraft:dead_brain_coral_wall_fan",
+    "minecraft:dead_bubble_coral"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "criteria": {
+    "placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": {
+          "type": "minecraft:all_of",
+          "terms": [
+            {
+              "type": "minecraft:inverted",
+              "term": {
+                "type": "minecraft:match_tool",
+                "predicate": {
+                  "items": [
+                    "minecraft:axolotl_bucket",
+                    "minecraft:cod_bucket",
+                    "minecraft:pufferfish_bucket",
+                    "minecraft:salmon_bucket",
+                    "minecraft:sulfur_cube_bucket",
+                    "minecraft:tadpole_bucket",
+                    "minecraft:tropical_fish_bucket",
+                    "minecraft:water_bucket"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "minecraft:inverted",
+              "term": {
+                "type": "minecraft:match_tool",
+                "predicate": {
+                  "items": "minecraft:lava_bucket"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "blocklog:place/block"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:red_wool_stairs",
+    "minecraft:redstone_block",
+    "minecraft:redstone_lamp",
+    "minecraft:redstone_ore",
+    "minecraft:redstone_torch",
+    "minecraft:redstone_wall_torch",
+    "minecraft:redstone_wire",
+    "minecraft:reinforced_deepslate",
+    "minecraft:repeater",
+    "minecraft:repeating_command_block",
+    "minecraft:resin_block",
+    "minecraft:resin_brick_slab",
+    "minecraft:resin_brick_stairs",
+    "minecraft:resin_brick_wall",
+    "minecraft:resin_bricks",
+    "minecraft:resin_clump",
+    "minecraft:respawn_anchor",
+    "minecraft:rooted_dirt",
+    "minecraft:rose_bush",
+    "minecraft:sand"
+  ]
+}

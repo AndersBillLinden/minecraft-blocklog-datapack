@@ -1,0 +1,17 @@
+{
+  "values": [
+    "#minecraft:wool_carpets",
+    "#minecraft:rails",
+    "#minecraft:pressure_plates",
+    "minecraft:wildflowers",
+    "minecraft:pink_petals",
+    "minecraft:leaf_litter",
+    "minecraft:moss_carpet",
+    "minecraft:pale_moss_carpet",
+    "minecraft:redstone_wire",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "minecraft:lily_pad",
+    "minecraft:frogspawn"
+  ]
+}
